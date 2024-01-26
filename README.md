@@ -27,3 +27,5 @@
 <a href="https://opgc.me/#/users/jiho08" target="_blank"><img src="https://api.opgc.me/githubs/users/jiho08/tag/?theme=dracula" /></a>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=%20666161&section=footer&fontSize=60&fontColor=918c8c&rotate=0&descAlign=60&descAlignY=55&descSize=30&fontAlignY=40)
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiho08%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
