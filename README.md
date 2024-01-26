@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=%20666161&text=Welcome&section=header&fontSize=60&fontColor=918c8c&rotate=0&desc=My%20Github%20Profile&descAlign=62&descAlignY=55&descSize=30&fontAlignY=40)
 # 소개
-안녕하세요. 저는 경기게임마이스터고등학교 2024년도 신입생 박지호 입니다.
+안녕하세요.<br>저는 경기게임마이스터고등학교 2024년도 신입생 박지호 입니다.
 
 # 경력
 | 유형 | 기간 | 역할 | 조직 |
