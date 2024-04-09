@@ -15,6 +15,7 @@
 
 # 🔧툴🔧
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=black%22%3E">
+<img src="https://img.shields.io/badge/Visual%20Studio$2019-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=black%22%3E">
 
 # ☎연락처☎
 <img src="https://img.shields.io/badge/jiho0995-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
