@@ -23,6 +23,9 @@
 <a href="https://www.facebook.com/profile.php?id=100078770102676" target="_blank"><img src="https://img.shields.io/badge/FaceBook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/jih0_08" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
+# 백준 정보
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cogito08)](https://solved.ac/cogito08/)
+
 # 🔥깃허브 정보🔥
 [![GitHub Streak](https://streak-stats.demolab.com?user=jiho08&theme=dark&locale=ko&card_width=500)](https://git.io/streak-stats)
 
