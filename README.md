@@ -7,11 +7,17 @@
 # 📚이력📚
 1학년 1학기<br>
 동아리 탈주닌자<br>
+<br>
 1학년 2학기<br>
+<br>
 2학년 1학기<br>
+<br>
 2학년 2학기<br>
+<br>
 3학년 1학기<br>
+<br>
 3학년 2학기<br>
+<br>
 # 📖언어📖
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=CSharp&logoColor=white">
 
