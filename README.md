@@ -1,8 +1,6 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=%20666161&text=Welcome&section=header&fontSize=60&fontColor=918c8c&rotate=0&desc=My%20Github%20Profile&descAlign=62&descAlignY=55&descSize=30&fontAlignY=40)
-# 👨‍🎓소개👨‍🎓
-안녕하세요.<br>저는 경기게임마이스터고등학교 5기생 박지호 입니다.<br>열심히 배우겠습니다!
 
 # 📚이력📚
 1학년 1학기<br>
