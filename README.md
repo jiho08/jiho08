@@ -16,7 +16,7 @@
 3학년 2학기<br>
 <br>
 # 📖언어📖
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=CSharp&logoColor=white">
+<img src="https://img.shields.io/badge/C Sharp-239120?style=badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=badge&logo=cplusplus&logoColor=white"/>
 
 # 🔧툴🔧
