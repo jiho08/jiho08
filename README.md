@@ -22,9 +22,9 @@
 <br>
 
 # 📖언어📖
-<img src="https://img.shields.io/badge/C Sharp-239120?style=badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/C++-00599C?style=badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
 # 🔧툴🔧
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=black%22%3E">
