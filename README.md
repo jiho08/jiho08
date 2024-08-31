@@ -17,6 +17,7 @@
 <br>
 # 📖언어📖
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=CSharp&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=badge&logo=cplusplus&logoColor=white"/>
 
 # 🔧툴🔧
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=black%22%3E">
