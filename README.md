@@ -3,23 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=%20666161&text=Welcome&section=header&fontSize=60&fontColor=918c8c&rotate=0&desc=My%20Github%20Profile&descAlign=62&descAlignY=55&descSize=30&fontAlignY=40)
 
 # 📚이력📚
-1학년 1학기<br>
-<br>
-
-1학년 2학기<br>
-<br>
-
-2학년 1학기<br>
-<br>
-
-2학년 2학기<br>
-<br>
-
-3학년 1학기<br>
-<br>
-
-3학년 2학기<br>
-<br>
 
 # 📖언어📖
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
