@@ -21,7 +21,6 @@
 
 # ☎연락처☎
 <img src="https://img.shields.io/badge/jiho0995-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100078770102676" target="_blank"><img src="https://img.shields.io/badge/FaceBook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/jih0_08" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 # :mailbox_with_mail:백준 정보:mailbox_with_mail:
