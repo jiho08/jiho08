@@ -33,8 +33,4 @@
 
 <a href="https://github.com/jiho08"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=jiho08&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Jiho's github stats" /></a><br>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiho08%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a><br>
-
-<a href="https://github.com/jiho08"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiho08&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a><br>
-
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=%20666161&&section=footer)
