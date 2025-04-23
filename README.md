@@ -30,7 +30,7 @@
 # 깃허브 정보
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jiho08&theme=dark&locale=ko" alt="GitHub Streak" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiho08&layout=Demo&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiho08&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/jiho08"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=jiho08&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Jiho's github stats" /></a><br>
 
