@@ -28,7 +28,7 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark)
 
 # 깃허브 정보
-[![GitHub Streak](https://streak-stats.demolab.com?user=jiho08&theme=dark&locale=ko)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jiho08&theme=dark&locale=ko" alt="GitHub Streak" /></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiho08&layout=Demo&theme=dark)
 
