@@ -25,7 +25,7 @@
 
 # 백준 정보
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cogito08)](https://solved.ac/cogito08/)<br>
-<img src="http://mazandi.herokuapp.com/api?handle={cogito08}&theme=dark"/>
+<img src="http://mazandi.herokuapp.com/api?handle=cogito08&theme=dark"/>
 
 # 깃허브 정보
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jiho08&theme=dark&locale=ko" alt="GitHub Streak" /></a>
