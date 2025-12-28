@@ -21,7 +21,6 @@
 
 # 연락처
 <img src="https://img.shields.io/badge/jiho0995-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
-<a href="https://www.instagram.com/jih0_08" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 # 백준 정보
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cogito08)](https://solved.ac/cogito08/)<br>
