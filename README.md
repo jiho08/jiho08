@@ -18,11 +18,11 @@
 # 연락처
 <img src="https://img.shields.io/badge/jiho0995-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
 
-# 백준 정보
+# 백준
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cogito08)](https://solved.ac/cogito08/)<br>
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=cogito08&theme=dark)
 
-# 깃허브 정보
+# 깃허브
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jiho08&theme=dark&locale=ko" alt="GitHub Streak" /></a>
 
 <a href="https://github.com/jiho08"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=jiho08&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Jiho's github stats" /></a>
